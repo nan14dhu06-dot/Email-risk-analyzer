@@ -62,6 +62,7 @@ Detected Issues:
 - password
 - Suspicious Link
 ```
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/434e11c9-b95b-44ce-9211-67969baadfd1" />
 
 ---
 
